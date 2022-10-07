@@ -1,1 +1,2 @@
 # shell
+git pull
